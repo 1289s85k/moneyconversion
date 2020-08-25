@@ -145,4 +145,5 @@ for(i=0;i<=convert.length;i++)
 {
 System.out.print(convert[i]);
 }
+System.out.print(f/10^l);
 }
